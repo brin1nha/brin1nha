@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @brin1nha
 - 👀 I’m interested in Data Science and Artificial Intelligence
-- 🌱 I’m currently learning SHA-256 and Augmented Reality
+- 🌱 I’m currently learning development on Python
 - 💞️ I’m looking to collaborate on Science
-- 📫 How to reach me on Instagram: @brin1nha
+- 📫 How to reach me on Instagram: @brina.com.br
 
 <!---
 brin1nha/brin1nha is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
